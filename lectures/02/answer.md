@@ -83,6 +83,7 @@ UNGROUNDED_ANSWER = "この FAQ には記載がありません。運営に確認
 ```
 
 - 結果（比較表や数字）：
+
 | **label** | **n** | **format_rate** | **content_rate** | **both_rate** | **seconds** |
 |---|---|---|---|---|---|
 | **before** | 21 | 0.047619 | 0.0 | 0.0 | 38.1 |
