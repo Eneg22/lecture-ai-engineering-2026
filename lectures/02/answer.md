@@ -1,7 +1,7 @@
 # 第2回 解答
 
 ## 演習
-（添付ファイル：/notebook/02_lora_format_tuning.ipynb/ にて実行）
+（添付ファイル：`lectures/02/notebooks/02_lora_format_tuning.ipynb/` にて実行）
 - 使ったモデル・設定（`result.json` の `config` から）：Qwen/Qwen3.5-0.8B
 - 自分で学習を実行したか（`executed_training_myself`）：はい
 - 学習前：`format_rate` =　0.09523809523809523 / `content_rate` =　0.0
@@ -36,7 +36,7 @@
 - 取り組んだレベル： 実装
 - 変えた設定やデータ：
 FAQ,根拠のある/ないデータ,追加質問を以下のように設定し、例と同様に学習前と学習後のスコアを比較した。
-（添付ファイル：/notebook/02_lora_format_tuning_ex.ipynb/ にて実行）
+（添付ファイル：`lectures/02/notebooks02_lora_format_tuning_ex.ipynb/` にて実行）
 
 ```text
 FAQ = {
