@@ -83,7 +83,7 @@ UNGROUNDED_ANSWER = "この FAQ には記載がありません。運営に確認
 ```
 
 - 結果（比較表や数字）：
-
+（詳しい結果は`/02/results/eval_before_ex.json`, `eval_after_ex.json`, `result_ex.json`に保存しています）
 | **label** | **n** | **format_rate** | **content_rate** | **both_rate** | **seconds** |
 |---|---|---|---|---|---|
 | **before** | 21 | 0.047619 | 0.0 | 0.0 | 38.1 |
