@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "label": "after",
+    "n": 21,
+    "format_rate": 1.0,
+    "content_rate": 1.0,
+    "both_rate": 1.0,
+    "seconds": 39.3
+  },
+  "rows": [
+    {
+      "question": "開始時間は何時ですか",
+      "raw": "{\"answer\": \"開催日は 11 月 15 日（土）10:00〜17:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "イベントの開催日時を教えてください",
+      "raw": "{\"answer\": \"開催日は 11 月 15 日（土）10:00〜17:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "何月何日の何時から何時まで開催されますか",
+      "raw": "{\"answer\": \"開催日は 11 月 15 日（土）10:00〜17:00 です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "会場の名前は何ですか",
+      "raw": "{\"answer\": \"開催場所は東京脳科学研究センターの第 2 会議室です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "イベントの開催場所と部屋番号を教えてください",
+      "raw": "{\"answer\": \"開催場所は東京脳科学研究センターの第 2 会議室です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "会場はどの施設の何会議室ですか",
+      "raw": "{\"answer\": \"開催場所は東京脳科学研究センターの第 2 会議室です。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "登録は何日までに必要ですか",
+      "raw": "{\"answer\": \"参加登録は公式サイトから 11 月 10 日 23:59 までに行ってください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "参加登録の締切日時を教えてください",
+      "raw": "{\"answer\": \"参加登録は公式サイトから 11 月 10 日 23:59 までに行ってください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "参加申し込みはどこから、いつまでに行いますか",
+      "raw": "{\"answer\": \"参加登録は公式サイトから 11 月 10 日 23:59 までに行ってください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "人工知能についての講演はありますか",
+      "raw": "{\"answer\": \"講演では脳の情報処理と人工知能の最新研究を紹介します。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "講演で紹介される研究分野を教えてください",
+      "raw": "{\"answer\": \"講演では脳の情報処理と人工知能の最新研究を紹介します。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "脳科学と人工知能についての研究紹介はありますか",
+      "raw": "{\"answer\": \"講演では脳の情報処理と人工知能の最新研究を紹介します。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "参加証は必要ですか",
+      "raw": "{\"answer\": \"会場内での録音・撮影は禁止です。受付で参加証を提示してください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "会場内で禁止されていることは何ですか",
+      "raw": "{\"answer\": \"会場内での録音・撮影は禁止です。受付で参加証を提示してください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "受付では何を提示する必要がありますか",
+      "raw": "{\"answer\": \"会場内での録音・撮影は禁止です。受付で参加証を提示してください。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "講演者は誰ですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "駐車場は無料で利用できますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "イベントの参加費はいくらですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "講演者の所属大学を教えてください",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "当日の昼食は用意されていますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "参加者の定員は何人ですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。運営に確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    }
+  ]
+}
